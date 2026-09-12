@@ -1,0 +1,8 @@
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+*.exe
+*.zip
+.DS_Store
